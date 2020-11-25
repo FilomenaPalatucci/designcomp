@@ -1,3 +1,6 @@
 # Design Comp
 Test
-blabla!(/Users/filomenapalatucci/Documents/GitHub/designcomp/how-netflix-makes-money-1024x772.png)[how-netflix-makes-money-1024x772]
+blabla!
+
+![Screen Shot 2020-10-28 at 15.46.55](/Users/filomenapalatucci/Documents/GitHub/designcomp/image/Screen Shot 2020-10-28 at 15.46.55.png)
+
